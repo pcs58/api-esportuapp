@@ -1,6 +1,9 @@
 {
     "name": "esportuapp",
     "version": "1.0.0",
+    "script": {
+        "start": "node index.js"
+    },
     "dependencies": {
         "-": "^0.0.1",
         "async-file": "^2.0.2",
