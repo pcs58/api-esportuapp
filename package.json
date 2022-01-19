@@ -2,6 +2,8 @@
     "name": "esportUApp",
     "version": "1.0.0",
     "dependencies": {
+        "-": "^0.0.1",
+        "@heroku-cli/plugin-buildpacks": "^7.54.0",
         "@heroku/buildpack-registry": "^1.0.1",
         "async-file": "^2.0.2",
         "cli-ux": "^6.0.8",
